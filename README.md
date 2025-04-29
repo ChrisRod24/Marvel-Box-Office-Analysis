@@ -4,7 +4,7 @@ Analyzing Marvel movie data: Budget vs Worldwide Earnings, Box Office Trends, an
 ## Visualizations
 Here are some key visualizations from the analysis:
 
-![Scatter Plot](https://github.com/your-username/repository-name/raw/main/Budget_Earnings_Scatterplot)
+![Scatter Plot](https://github.com/your-username/repository-name/raw/main/[Budget_Earnings_Scatterplot](https://github.com/ChrisRod24/Marvel-Box-Office-Analysis/blob/main/Budget_Earnings_Scatterplot.png?raw=true))
 ![Bar Chart](https://github.com/your-username/repository-name/raw/main/Boxoffice_Revenue_Pivot & Bargraph)
 
 ## Overview
