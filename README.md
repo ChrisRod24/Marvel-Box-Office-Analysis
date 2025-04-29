@@ -1,6 +1,12 @@
 # Marvel-Box-Office-Analysis
 Analyzing Marvel movie data: Budget vs Worldwide Earnings, Box Office Trends, and Movie Ratings.
 
+## Visualizations
+Here are some key visualizations from the analysis:
+
+![Scatter Plot](https://github.com/your-username/repository-name/raw/main/Budget_Earnings_Scatterplot)
+![Bar Chart](https://github.com/your-username/repository-name/raw/main/Boxoffice_Revenue_Pivot & Bargraph)
+
 ## Overview
 This project involves analyzing Marvel movie data to explore the relationship between **production budgets** and **worldwide earnings**. The analysis includes cleaning the raw data, creating insightful visualizations, and drawing conclusions on how budget correlates with earnings.
 
